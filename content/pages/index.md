@@ -174,7 +174,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Who The Hell Is
       color: text-dark
       styles:
         self:
