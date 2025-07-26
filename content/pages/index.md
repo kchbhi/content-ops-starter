@@ -611,11 +611,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      I don't work with everyone.
+
+      I only work with people who:
+
+      *   Are serious about doing business
+
+      *   Don't complain about the delay
+
+      *   Have Realistic Expectations
+
     media:
       fields:
         - name: name
