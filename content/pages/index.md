@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: 'The Man, The Myth, The Legend'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Famous for dodging curses, nicking ships, and charming the boots off Davy
+      Jones himself.
     actions:
       - label: Book A Call
         altText: ''
