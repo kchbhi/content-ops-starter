@@ -165,7 +165,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Services I'm Offering
       color: text-dark
       styles:
         self:
