@@ -660,7 +660,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Me
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
