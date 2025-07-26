@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Numbers I'm Proud Of
       color: text-dark
       styles:
         self:
