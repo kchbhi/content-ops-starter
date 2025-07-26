@@ -560,7 +560,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Some Tools I Possess
+      text: My Beloved Belongings
       color: text-primary
       styles:
         self:
